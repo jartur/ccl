@@ -1,4 +1,4 @@
-package me.jartur.ccl
+package com.jartur.ccl
 
 class Parser(val s: String) {
     var position: Int = 0
